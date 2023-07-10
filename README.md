@@ -2,6 +2,13 @@
 **looking for roblox hacks? see [klashdevelopment/Mika-Roblox](https://github.com/klashdevelopment/Mika-Roblox)!**
 
 
+**looking for muck hacks? see [klashdevelopment/Mika](https://github.com/klashdevelopment/Mika)!**
+
+
+**looking for unity game hacks? see [klashdevelopment/Mika-Others](https://github.com/klashdevelopment/Mika-Others)!**
+
+
+
  Mika: The best actively-developed Muck hacked client
 ## Using/Commands
 **First of all, get into the game and click Enter to open the chatbox**
