@@ -14,14 +14,16 @@
 **First of all, get into the game and click Enter to open the chatbox**
 ** Key: &lt;option&gt; means required. [option] means optional.
 * `/heal` - Heals you for 500 health, shield, and stamina.
-* `/fastak` - Makes your attack speed SUPER fast.
-* `/slotak` - Reverses `/fastak`. NOT IMPLEMENTED
+* `/fastak` - Adds 150 attack speed
+* `/slotak` - Removes 150 attack speed
 * `/power` - Spawns every powerup at your location, and if you dont move, redeems them two seconds later.
 * `/magnet` - Picks up all nearby floor-items (ex. rocks, shrooms, apples)
 * `/chest` - Opens all powerup chests. Does not redeem them.
 * `/achieve` - Gives you all achievements on Steam.
 * `/muck` - Gives you the **Muck** achievement on Steam.
-* `/drop` - Drops &lt;item&gt; [amount] times. Examples: `/drop rock` or `/drop rock 1` will drop 1 rock.
+* `/dupe` - Drops your current item.
+* `/boat` - Drops all items needed to fix the boat.
+* `/drop` - Drops a stack of &lt;item&gt; [amount] times. Examples: `/drop rock`, `/drop rock 1`, `/drop adamantite_sword`
 ## Installing
 <details markdown="1">
  <summary>I am using Windows</summary>
