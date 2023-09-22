@@ -52,7 +52,9 @@
 * `/boat` - Drops all items needed to fix the boat.
 * `/drop` - Drops a stack of &lt;item&gt; [amount] times. Examples: `/drop rock`, `/drop rock 1`, `/drop adamantite_sword`
 
-## How do I hack muck myself?
-Install dnSpy or JetBrains dotPeek, then open up the Assembly-CSharp.dll in the app. Modify the code, export it, and boom!
+## How do I hack unity games?
+Install dnSpy, then open up the Assembly-CSharp.dll in the app. Modify the code, file>export module, and boom!
 I recommend watching [this video](https://www.youtube.com/watch?v=_j7Plxkvn9Y) to get started.
-> Not avalible on mac.
+> dnspy is not a mac avalible thing
+## How do I hack UE4 games?
+Follow https://github.com/Cracko298/UE4-AES-Key-Extracting-Guide and use FModel instead of UModel. You can skip Steamless if it doesnt work.
