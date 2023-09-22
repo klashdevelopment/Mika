@@ -1,29 +1,6 @@
 # Mika 4 Muck
-**looking for roblox hacks? see [klashdevelopment/Mika-Roblox](https://github.com/klashdevelopment/Mika-Roblox)!**
-
-
-**looking for muck hacks? see [klashdevelopment/Mika](https://github.com/klashdevelopment/Mika)!**
-
-
-**looking for unity game hacks? see [klashdevelopment/Mika-Others](https://github.com/klashdevelopment/Mika-Others)!**
-
-
 
  Mika: The best actively-developed Muck hacked client
-## Using/Commands
-**First of all, get into the game and click Enter to open the chatbox**
-** Key: &lt;option&gt; means required. [option] means optional.
-* `/heal` - Heals you for 500 health, shield, and stamina.
-* `/fastak` - Adds 150 attack speed
-* `/slotak` - Removes 150 attack speed
-* `/power` - Spawns every powerup at your location, and if you dont move, redeems them two seconds later.
-* `/magnet` - Picks up all nearby floor-items (ex. rocks, shrooms, apples)
-* `/chest` - Opens all powerup chests. Does not redeem them.
-* `/achieve` - Gives you all achievements on Steam.
-* `/muck` - Gives you the **Muck** achievement on Steam.
-* `/dupe` - Drops your current item.
-* `/boat` - Drops all items needed to fix the boat.
-* `/drop` - Drops a stack of &lt;item&gt; [amount] times. Examples: `/drop rock`, `/drop rock 1`, `/drop adamantite_sword`
 ## Installing
 <details markdown="1">
  <summary>I am using Windows</summary>
@@ -59,6 +36,21 @@
  <summary>I am using Linux</summary>
   Go to steam -> muck -> settings icon -> browse local files -> find the folder with assembly-csharp.dll -> paste the Mika one but replace the filename with `Assembly-CSharp.dll`.
 </details>
+
+## Commands
+**First of all, get into the game and click Enter to open the chatbox**
+* Key: &lt;option&gt; means required. [option] means optional.
+* `/heal` - Heals you for 500 health, shield, and stamina.
+* `/fastak` - Adds 150 attack speed
+* `/slotak` - Removes 150 attack speed
+* `/power` - Spawns every powerup at your location, and if you dont move, redeems them two seconds later.
+* `/magnet` - Picks up all nearby floor-items (ex. rocks, shrooms, apples)
+* `/chest` - Opens all powerup chests. Does not redeem them.
+* `/achieve` - Gives you all achievements on Steam.
+* `/muck` - Gives you the **Muck** achievement on Steam.
+* `/dupe` - Drops your current item.
+* `/boat` - Drops all items needed to fix the boat.
+* `/drop` - Drops a stack of &lt;item&gt; [amount] times. Examples: `/drop rock`, `/drop rock 1`, `/drop adamantite_sword`
 
 ## How do I hack muck myself?
 Install dnSpy or JetBrains dotPeek, then open up the Assembly-CSharp.dll in the app. Modify the code, export it, and boom!
