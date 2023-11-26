@@ -37,7 +37,19 @@
   Go to steam -> muck -> settings icon -> browse local files -> find the folder with assembly-csharp.dll -> paste the Mika one but replace the filename with `Assembly-CSharp.dll`.
 </details>
 
-## Commands
+## Using Mika
+**First, get into a game!**
+In the top left, look for a little box. There are your hacks! Use Inventory or Pause menus to access it.
+
+Q: Help! It goes blank when I click Tab.
+
+A: Move your cursor, walk around, or do any other action. This prevents auto-selecting the textbox.
+
+Q: How do I spawn items?
+
+A: The text box there - type something like "2 rock" or "1 obamium_bar" and a button will appear to give the item.
+
+## OLD LECACY COMMANDS (1.0.0 - 2.0.0)
 **First of all, get into the game and click Enter to open the chatbox**
 * Key: &lt;option&gt; means required. [option] means optional.
 * `/heal` - Heals you for 500 health, shield, and stamina.
